@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "expose-loader": "^0.7.5",
+    "expose-loader": "1.0.1",
     "webpack": "^4.35.0",
     "webpack-cli": "^3.3.5"
   },

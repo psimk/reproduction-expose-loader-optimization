@@ -1,3 +1,3 @@
-import 'expose-loader?styled!styled-components';
+import "expose-loader?exposes=styled!styled-components";
 
-console.log('Hello world!');
+console.log("Hello world!");
